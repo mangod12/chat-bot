@@ -3,7 +3,7 @@
 Chatter box is a program that is capable of communicating in a natural language about a topic given to it using its dataset. This chatter box is capable in reconizing and responding to user input accurately and precisely.
 
 ## Disclaimer
-photo search function might not work due to site using php
+photo search function might not work due to site using php and this bot being incompatible with the same.
 
 ## Requirement
     1. Install Node JS (Version : v10.1.0)
@@ -33,9 +33,9 @@ Chatter Bot has been tested successfully with:
 
   * Google Chrome / Chromium
 
-## Open Donate
+## DONATE
 
-Jika aplikasi ini membantumu dalam proses belajar, kamu boleh donasikan dalam bentuk apapun untuk membantu pengembang memaintain aplikasi yang lebih baik lagi, bisa dalam bentuk pulsa dll. Instagram : ujikofficial, Facebook : Fauzi Zaki.
+donate for its developement Instagram : ujikofficial, Facebook : Fauzi Zaki.
 
 ## Credits
 Credit by https://github.com/ujikit
