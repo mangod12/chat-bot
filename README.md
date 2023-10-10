@@ -1,9 +1,9 @@
 <!-- ## In Progress App and Documentation... -->
 ## Documentation & How to Use ?
-Chatter Bot adalah sebuah program yang dapat melakukan obrolan dalam bahasa alami mengenai sebuah topik yang ada dalam model pengetahuan Chatter Bot tersebut. Artinya, Chatter Bot harus bisa mengenali dan merespon kata-kata yang diminta oleh pengguna.
+Chatter box is a program that is capable of communicating in a natural language about a topic given to it using its dataset. This chatter box is capable in reconizing and responding to user input accurately and precisely.
 
 ## Disclaimer
-Aplikasi ini jalan sih, cuman foto objek yang dicari akan tidak bisa ditampilkan, dikarenakan foto objek berada pada aplikasi yang berbeda. Kamu akan menemui masalah ini ketika sedang mencari nama siswa atau pegawai yang terindikasi duplikasi atau sedang mencari informasi pegawai maupun siswa yang disertai dengan fotonya. Jadi ceritanya, aplikasi Chatter Bot ini me request permintaan foto ke Sistem Informasi Akademik yang menggunakan bahasa pemrograman PHP.
+photo search function might not work due to site using php
 
 ## Requirement
     1. Install Node JS (Version : v10.1.0)
